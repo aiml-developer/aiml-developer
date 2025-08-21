@@ -29,10 +29,8 @@
   </a>
 </div>
 
----
-
 <!-- About Me Section -->
-<div align="center">
+<p align="left">
 
 👨🏻‍💻 Exploring the universe of **Artificial Intelligence & Machine Learning**  
 🧠 My journey revolves around **Deep Learning**, with curiosity spanning across **NLP, Computer Vision, and Large Language Models (LLMs)**  
@@ -40,9 +38,7 @@
 📂 Check out my projects where I experiment with ideas—from small prototypes to applied AI concepts  
 💬 Open to discussions on AI/ML—whether it’s about model architectures, training tricks, or the latest in research  
 
-</div>
-
----
+</p>
 
 <!-- GitHub Activity Graph -->
 <div align="center">
