@@ -3,11 +3,6 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="1000" />
 </p>
 
-<!-- Intro Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Parveen+Kashyap;An+AI%2FML+Developer;From+India+%F0%9F%87%AE%F0%9F%87%B3&color=2F81F7" alt="Typing SVG" />
-</div>
-
 <!-- Divider -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%" />
