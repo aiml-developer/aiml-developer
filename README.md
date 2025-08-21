@@ -2,8 +2,16 @@
 <div align="center" style="color:white; background-color:#0d1117;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Parveen+Kashyap;An+AI%2FML+Developer;From+India+%F0%9F%87%AE%F0%9F%87%B3&color=FFFFFF&background=0d1117" alt="Typing SVG">
 
+<!-- Profile 3D Contribution -->
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Chart" />
+</p>
+
+<!-- Animated Header Banner -->
+<p align="center">
+  <a href="https://github.com/HarleyCoops">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Financial+Analyst;Quantitative+Finance+Specialist;Machine+Learning+Engineer;Python+Developer;Data+Science+Professional;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 </p>
 
 
