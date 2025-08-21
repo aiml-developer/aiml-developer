@@ -2,7 +2,7 @@
 <div align="center" style="color:white; background-color:#0d1117;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Parveen+Kashyap;An+AI%2FML+Developer;From+India+%F0%9F%87%AE%F0%9F%87%B3&color=FFFFFF&background=0d1117" alt="Typing SVG">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+
 </div>
 <div align="center">
     <a href="https://github.com/parveen-ml">
@@ -34,3 +34,4 @@
 <p align="left">
   🌐 Personal GitHub (2022 - 2025 June): <a href="https://github.com/1parveen">github.com/1parveen</a>
 </p>
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
