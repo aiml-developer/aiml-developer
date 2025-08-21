@@ -10,7 +10,7 @@
 <!-- Animated Header Banner -->
 <p align="center">
   <a href="https://github.com/parveen-ml">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Financial+Analyst;Quantitative+Finance+Specialist;Machine+Learning+Engineer;Python+Developer;Data+Science+Professional;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=AI+%26+ML+Enthusiast;Machine+Learning+Engineer;Deep+Learning+Researcher;Python+Developer;Data+Science+Explorer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
