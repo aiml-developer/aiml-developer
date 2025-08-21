@@ -43,7 +43,7 @@
 
 </div>
 <p align="left">
-  📚 Academic GitHub (2019 – 2022): github.com/1parveen — Maintained private repositories of lecture notes, learning projects, and college assignments.
+📚 Academic GitHub (2019 – 2022): [github.com/1parveen](https://github.com/1parveen) — Maintained private repositories of lecture notes, learning projects, and college assignments.
 </p>
 <div align= "center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">  </div>
