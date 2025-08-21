@@ -2,10 +2,11 @@
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="1000" />
 </p>
-
-<!-- Divider -->
+<!-- Animated Roles Header -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%" />
+  <a href="https://github.com/parveen-ml">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=AI+%26+ML+Enthusiast;Machine+Learning+Engineer;Deep+Learning+Researcher;Python+Developer;Data+Science+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- Social & Profile Badges -->
@@ -25,68 +26,22 @@
   </a>
 </p>
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%" />
-</p>
-
-<!-- Animated Roles Header -->
-<p align="center">
-  <a href="https://github.com/parveen-ml">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=AI+%26+ML+Enthusiast;Machine+Learning+Engineer;Deep+Learning+Researcher;Python+Developer;Data+Science+Explorer;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%" />
-</p>
-
-<!-- GitHub Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parveen-ml&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parveen-ml&theme=tokyonight" height="180em" />
-</p>
-
-<!-- Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%" />
-</p>
 
 <!-- Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parveen-ml&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-<!-- 3D Contribution Chart -->
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Chart" />
-</p>
-
-<!-- Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%" />
-</p>
 
 <!-- Fun GIF Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
 </p>
 
-<!-- Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%" />
-</p>
-
 <!-- Academic Note -->
 <p align="left">
 📚 Academic GitHub (2019 – 2022):  
 <a href="https://github.com/1parveen">github.com/1parveen</a> — Maintained private repositories of lecture notes, learning projects, and college assignments.
-</p>
-
-<!-- Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%" />
 </p>
 
 <!-- Footer -->
