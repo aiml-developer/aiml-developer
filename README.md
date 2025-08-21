@@ -30,15 +30,13 @@
 </div>
 
 <!-- About Me Section -->
-<p align="left">
+## About Me  
 
-👨🏻‍💻 Exploring the universe of **Artificial Intelligence & Machine Learning**  
-🧠 My journey revolves around **Deep Learning**, with curiosity spanning across **NLP, Computer Vision, and Large Language Models (LLMs)**  
-🔍 Always eager to dive deeper into how machines learn, understand, and create  
-📂 Check out my projects where I experiment with ideas—from small prototypes to applied AI concepts  
-💬 Open to discussions on AI/ML—whether it’s about model architectures, training tricks, or the latest in research  
-
-</p>
+- 👨🏻‍💻 Exploring AI & Machine Learning  
+- 🧠 Interested in Deep Learning, NLP, CV & LLMs  
+- 🌱 Currently learning PyTorch, LangChain & HuggingFace  
+- 📂 Building small projects & prototypes  
+- 💬 Open to discussions on AI/ML research & applications
 
 <!-- GitHub Activity Graph -->
 <div align="center">
