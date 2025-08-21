@@ -32,11 +32,11 @@
 <!-- About Me Section -->
 ## About Me  
 
-- 👨🏻‍💻 Exploring AI & Machine Learning  
-- 🧠 Interested in Deep Learning, NLP, CV & LLMs  
-- 🌱 Currently learning PyTorch, LangChain & HuggingFace  
-- 📂 Building small projects & prototypes  
-- 💬 Open to discussions on AI/ML research & applications
+- Exploring AI & Machine Learning  
+- Interested in Deep Learning, NLP, CV & LLMs  
+- Currently learning PyTorch, LangChain & HuggingFace  
+- Building projects & prototypes  
+- Open to discussions on AI/ML research & applications
 
 <!-- GitHub Activity Graph -->
 <div align="center">
