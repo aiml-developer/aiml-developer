@@ -30,6 +30,11 @@
   <a href="https://www.kaggle.com/parveenkashyap44">
     <img src="https://img.shields.io/badge/Kaggle-Profile-blue" alt="Kaggle" />
   </a>
+👨🏻‍💻 Exploring the universe of **Artificial Intelligence & Machine Learning**  
+🧠 My journey revolves around **Deep Learning**, with curiosity spanning across **NLP, Computer Vision, and Large Language Models (LLMs)**  
+🔍 Always eager to dive deeper into how machines learn, understand, and create  
+📂 Check out my projects where I experiment with ideas—from small prototypes to applied AI concepts  
+💬 Open to discussions on AI/ML—whether it’s about model architectures, training tricks, or the latest in research  
 
 </div>
 <div align="center">
