@@ -1,7 +1,7 @@
 <div align="center" style="color:white; background-color:#0d1117;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Parveen+Kashyap;An+AI%2FML+Developer;From+India+%F0%9F%87%AE%F0%9F%87%B3&color=FFFFFF&background=0d1117" alt="Typing SVG">
 </div>
-
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
 <div align="center">
     <a href="https://github.com/parveen-ml">
   <img src="https://komarev.com/ghpvc/?username=parveen-ml&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
