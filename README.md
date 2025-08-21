@@ -34,4 +34,4 @@
 <p align="left">
   🌐 Personal GitHub (2022 - 2025 June): <a href="https://github.com/1parveen">github.com/1parveen</a>
 </p>
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
