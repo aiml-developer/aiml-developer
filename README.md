@@ -31,16 +31,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harleycoops&theme=github_dark" alt="GitHub Metrics Dashboard" />
 </p>
 
-<!-- Wakatime Stats - Shows your coding activity -->
-<!-- Note: To use this, you need to:
-     1. Sign up at https://wakatime.com
-     2. Connect your GitHub account
-     3. Install WakaTime plugins for your code editors
-     4. Replace 'harleycoops' below with your actual WakaTime username -->
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=harleycoops&layout=compact&theme=react&hide_border=true" alt="Wakatime Stats" />
-</p>
-
 <!-- Programming Languages -->
 <h3>Programming Languages</h3>
 <p>
