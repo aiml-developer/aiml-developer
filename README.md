@@ -5,13 +5,29 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Chart" />
 </p>
 
-<!-- Animated Header Banner -->
+<!-- Animated Roles Header -->
 <p align="center">
   <a href="https://github.com/parveen-ml">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=Financial+Analyst;Quantitative+Finance+Specialist;Machine+Learning+Engineer;Python+Developer;Data+Science+Professional;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=AI+%26+ML+Enthusiast;Machine+Learning+Engineer;Deep+Learning+Researcher;Python+Developer;Data+Science+Explorer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
+<div align="center">
+    <a href="https://github.com/parveen-ml">
+  <img src="https://komarev.com/ghpvc/?username=parveen-ml&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+        </a>
+  <a href="https://www.linkedin.com/in/parveen-kashyap44/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/parveenkashyap80/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/inparv">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen" alt="HackerRank" />
+  </a>
+  <a href="https://www.kaggle.com/parveenkashyap44">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue" alt="Kaggle" />
+  </a>
 <!-- About Me Section -->
 ## About Me
 
@@ -61,9 +77,12 @@
 
 <!-- GitHub Activity Graph - Shows your contribution graph -->
 ## Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harleycoops&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Christian's GitHub Activity Graph" />
-</p>
+<div align="center">
+  <a href="https://github.com/parveen-ml/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=parveen-ml&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  </a>
+
+</div>
 
 <!-- Footer -->
 <p align="center">
