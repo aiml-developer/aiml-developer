@@ -1,4 +1,4 @@
-<h1 align="center">Christian H. Cooper</h1>
+<h1 align="center">AIML</h1>
 
 <!-- Profile 3D Contribution -->
 <p align="center">
@@ -17,9 +17,6 @@
 <!-- Profile Views Counter -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harleycoops&label=Profile%20views&color=0e75b6&style=flat" alt="harleycoops" /> </p>
 
-<!-- GitHub Trophies - Achievements showcase -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harleycoops&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="harleycoops" /></a> </p>
-
 <!-- Social Media Badges -->
 <p align="left">
   <a href="https://twitter.com/christiancooper" target="blank"><img src="https://img.shields.io/twitter/follow/christiancooper?logo=twitter&style=for-the-badge" alt="christiancooper" /></a>
@@ -33,25 +30,6 @@
 - I'm currently learning **Python, PyTorch, Langchain**
 - Ask me about **CFA training, Derivatives, Congressional Trading**
 
-
-<!-- Current Projects Section -->
-## Current Projects
-
-<a href="https://github.com/HarleyCoops/Math-To-Manim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harleycoops&repo=Math-To-Manim&theme=react&hide_border=true" />
-</a>
-
-<a href="https://github.com/HarleyCoops/OneShotGRPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harleycoops&repo=OneShotGRPO&theme=react&hide_border=true" />
-</a>
-
-<a href="https://github.com/HarleyCoops/smolThinker-.5B">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harleycoops&repo=smolThinker-.5B&theme=react&hide_border=true" />
-</a>
-
-<a href="https://github.com/HarleyCoops/StoneyNakoda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harleycoops&repo=StoneyNakoda&theme=react&hide_border=true" />
-</a>
 
 <!-- GitHub Stats Section - Using reliable endpoints -->
 ## GitHub Stats
@@ -76,25 +54,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harleycoops&theme=github_dark" alt="GitHub Metrics Dashboard" />
 </p>
 
-<!-- Quantitative Finance Visualization -->
-## Quantitative Finance Visualizations
-
-<p align="center">
-  <a href="https://github.com/HarleyCoops/Math-To-Manim">
-    <img src="https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/docs/volatility_surface.gif" alt="Volatility Surface Animation" width="400"/>
-  </a>
-  <br>
-  <em>Volatility Surface Visualization - Options Skew Model</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/HarleyCoops/Math-To-Manim">
-    <img src="https://raw.githubusercontent.com/HarleyCoops/Math-To-Manim/main/docs/monte_carlo_simulation.gif" alt="Monte Carlo Simulation" width="400"/>
-  </a>
-  <br>
-  <em>Monte Carlo Simulation for Option Pricing</em>
-</p>
-
 <!-- Wakatime Stats - Shows your coding activity -->
 <!-- Note: To use this, you need to:
      1. Sign up at https://wakatime.com
@@ -104,9 +63,6 @@
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=harleycoops&layout=compact&theme=react&hide_border=true" alt="Wakatime Stats" />
 </p>
-
-<!-- Skills Section with Animated Bars -removed-  -->
-
 
 <!-- Programming Languages -->
 <h3>Programming Languages</h3>
@@ -136,21 +92,11 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
-<!-- Connect with me section -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/harleycoops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harleycoops" height="30" width="40" /></a>
-<a href="https://twitter.com/christiancooper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="christiancooper" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/christianhcooperus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianhcooperus" height="30" width="40" /></a>
-<a href="https://kaggle.com/christianhcooper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="christianhcooper" height="30" width="40" /></a>
-</p>
-
 <!-- GitHub Activity Graph - Shows your contribution graph -->
 ## Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harleycoops&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Christian's GitHub Activity Graph" />
 </p>
-
 
 <!-- Footer -->
 <p align="center">
