@@ -1,11 +1,11 @@
-<h1 align="center">AIML</h1>
+<!--<h1 align="center">AIML</h1>
 
-<!-- Profile 3D Contribution -->
+<!-- Profile 3D Contribution 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Chart" />
-</p>
+</p>-->
 
-<!-- Animated Roles Header -->
+<!-- Animated Roles 
 <p align="center">
   <a href="https://github.com/parveen-ml">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=AI+%26+ML+Enthusiast;Machine+Learning+Engineer;Deep+Learning+Researcher;Python+Developer;Data+Science+Explorer;Open+Source+Contributor" alt="Typing SVG" />
@@ -28,26 +28,26 @@
   <a href="https://www.kaggle.com/parveenkashyap44">
     <img src="https://img.shields.io/badge/Kaggle-Profile-blue" alt="Kaggle" />
   </a>
-<!-- About Me Section -->
+<!-- About Me Section 
 ## About Me
 
 - I'm currently working on **AI-driven financial analysis tools**
 - I'm currently learning **Python, PyTorch, Langchain**
 - Ask me about **CFA training, Derivatives, Congressional Trading**
 
-<!-- GitHub Stats Section - Using reliable endpoints -->
+<!-- GitHub Stats Section - Using reliable endpoints 
 ## GitHub Stats
 
-<!-- GitHub Streak Stats - More reliable API -->
+<!-- GitHub Streak Stats - More reliable 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harleycoops&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </p>
-<!-- GitHub Metrics Dashboard - Using a different service -->
+<!-- GitHub Metrics Dashboard - Using a different service 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harleycoops&theme=github_dark" alt="GitHub Metrics Dashboard" />
 </p>
 
-<!-- Programming Languages -->
+<!-- Programming Languages 
 <h3>Programming Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </p>
 
-<!-- Frameworks & Libraries -->
+<!-- Frameworks & Libraries 
 <h3>Frameworks & Libraries</h3>
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
-<!-- Cloud & DevOps -->
+<!-- Cloud & DevOps 
 <h3>Cloud & DevOps</h3>
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
-<!-- GitHub Activity Graph - Shows your contribution graph -->
+<!-- GitHub Activity Graph - Shows your contribution graph 
 ## Contribution Graph
 <div align="center">
   <a href="https://github.com/parveen-ml/github-readme-activity-graph">
@@ -84,7 +84,7 @@
 
 </div>
 
-<!-- Footer -->
+<!-- Footer 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+</p> -->
