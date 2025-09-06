@@ -12,24 +12,12 @@
   </a>
 </p>
 
-<h3 align="center">Working on complex problems in a complex world</h3>
-
-<!-- Profile Views Counter -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harleycoops&label=Profile%20views&color=0e75b6&style=flat" alt="harleycoops" /> </p>
-
-<!-- Social Media Badges -->
-<p align="left">
-  <a href="https://twitter.com/christiancooper" target="blank"><img src="https://img.shields.io/twitter/follow/christiancooper?logo=twitter&style=for-the-badge" alt="christiancooper" /></a>
-  <a href="https://linkedin.com/in/christianhcooperus" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-</p>
-
 <!-- About Me Section -->
 ## About Me
 
 - I'm currently working on **AI-driven financial analysis tools**
 - I'm currently learning **Python, PyTorch, Langchain**
 - Ask me about **CFA training, Derivatives, Congressional Trading**
-
 
 <!-- GitHub Stats Section - Using reliable endpoints -->
 ## GitHub Stats
@@ -42,11 +30,6 @@
 <!-- GitHub Stats Card with custom parameters -->
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harleycoops&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<!-- Most Used Languages - Alternative endpoint -->
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harleycoops&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <!-- GitHub Metrics Dashboard - Using a different service -->
