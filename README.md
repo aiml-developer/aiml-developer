@@ -1,90 +1,73 @@
-<!--<h1 align="center">AIML</h1>
-
-<!-- Profile 3D Contribution 
+<!-- Minimal top banner (optional, can remove if you want super plain) -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Chart" />
-</p>-->
-
-<!-- Animated Roles 
-<p align="center">
-  <a href="https://github.com/parveen-ml">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=100&lines=AI+%26+ML+Enthusiast;Machine+Learning+Engineer;Deep+Learning+Researcher;Python+Developer;Data+Science+Explorer;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Data/intro.gif" width="900" alt="Technology banner" />
 </p>
 
-<div align="center">
-    <a href="https://github.com/parveen-ml">
-  <img src="https://komarev.com/ghpvc/?username=parveen-ml&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-        </a>
+<h1 align="center">Parveen Kashyap</h1>
+
+<p align="center">
+  <strong>Python · Machine Learning · Deep Learning · Computer Vision</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:er.parveen44@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/parveen-kashyap44/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/parveenkashyap80/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange" alt="LeetCode" />
+  <a href="https://github.com/parveen-ml">
+    <img src="https://komarev.com/ghpvc/?username=parveen-ml&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-  <a href="https://www.hackerrank.com/profile/inparv">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen" alt="HackerRank" />
-  </a>
-  <a href="https://www.kaggle.com/parveenkashyap44">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-blue" alt="Kaggle" />
-  </a>
-<!-- About Me Section 
-## About Me
+</p>
 
-- I'm currently working on **AI-driven financial analysis tools**
-- I'm currently learning **Python, PyTorch, Langchain**
-- Ask me about **CFA training, Derivatives, Congressional Trading**
+---
 
-<!-- GitHub Stats Section - Using reliable endpoints 
-## GitHub Stats
+### Snapshot
 
-<!-- GitHub Streak Stats - More reliable 
+- Builds end‑to‑end solutions: from exploration in notebooks to deployable apps and services.  
+- Works primarily with artificial intelligence and machine learning, with a strong bias toward shipping.  
+- Comfortable moving across modeling, data work, and the engineering needed to put models in use.  
+
+---
+
+### What this GitHub is about
+
+- Practical ML: classification, regression, forecasting, optimization, and analysis on real datasets.  
+- Deep learning & vision: detection, tracking, image understanding, and interactive interfaces.  
+- Tools & apps: Streamlit / web backends / utilities that turn ideas into something usable.  
+
+---
+
+### Repositories to start with
+
+For a quick sense of how things are built here, the pinned projects show:
+
+- Production‑style ML and CV pipelines with clear structure and reproducible workflows.  
+- Experiments that focus on model quality, robustness, and readable implementation.  
+- Small, focused repos used to explore ideas, patterns, and new techniques in AI/ML.  
+
+---
+
+### Around the web
+
+- LeetCode: <a href="https://leetcode.com/u/parveenkashyap80/">parveenkashyap80</a>  
+- HackerRank: <a href="https://www.hackerrank.com/profile/inparv">inparv</a>  
+- Kaggle: <a href="https://www.kaggle.com/parveenkashyap44">parveenkashyap44</a>  
+
+Academic work and earlier projects live at  
+<a href="https://github.com/1parveen">github.com/1parveen</a>.
+
+---
+
+<!-- Activity graph (kept simple and centered) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harleycoops&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</p>
-<!-- GitHub Metrics Dashboard - Using a different service 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harleycoops&theme=github_dark" alt="GitHub Metrics Dashboard" />
-</p>
-
-<!-- Programming Languages 
-<h3>Programming Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-</p>
-
-<!-- Frameworks & Libraries 
-<h3>Frameworks & Libraries</h3>
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
-
-<!-- Cloud & DevOps 
-<h3>Cloud & DevOps</h3>
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
-
-<!-- GitHub Activity Graph - Shows your contribution graph 
-## Contribution Graph
-<div align="center">
-  <a href="https://github.com/parveen-ml/github-readme-activity-graph">
+  <a href="https://github.com/parveen-ml">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=parveen-ml&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
   </a>
+</p>
 
-</div>
-
-<!-- Footer 
+<!-- Footer wave (your original floating footer) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer wave" />
+</p>
