@@ -1,0 +1,43 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # 00:00 Istanbul == 21:00 UTC
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - name: Checkout Private Action
+        uses: actions/checkout@v4
+        with:
+          repository: erdincozdemirr/github-profile-3d-contrib
+          token: ${{ secrets.PRIVATE_ACTION_TOKEN }}
+          path: ./.tmp_action
+          ref: main
+      - uses: ./.tmp_action
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/green-dual.json
+      - name: Cleanup Private Action
+        run: rm -rf ./.tmp_action
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git remote set-url origin https://x-access-token:${{ secrets.PRIVATE_ACTION_TOKEN }}@github.com/${{ github.repository }}.git
+          git add -A .
+          git commit -m "generated" || exit 0
+          git pull --rebase
+          git push
