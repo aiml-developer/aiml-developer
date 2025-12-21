@@ -4,20 +4,25 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;I am a software engineer in **Java development**, with a skill set that includes **Java 8+**, **Spring Boot**, **SQL**, **JPA/Hibernate**, **RESTful APIs** and **Spring Security**. I like to work on **Microservice** architecture. I have an interest in developing **Financial** and **Insurance** application.
 
-<table border="0" width="100%">
-  <tr border="0">
-    <td width="60%" align="left" valign="middle">
-      💻    Java Backend Developer <br>
-      ⚡️     Software Engineer   <br>  
-      📝    <a href="./assets/Erdinc_Ozdemir_Java_Back_CV.pdf">My Resume!
-      </a> <br> 
-      📫    <a href="mailto:erdincozdemir1812@gmail.com">erdincozdemir1812@gmail.com</a><br>
-      👥    <a href="https://calendly.com/erdincozdemir/40min">Schedule Meeting!</a>  <br>
-    </td>
-    <td width="40%" style="display: block; margin: 0 auto;padding:0;">
-    <img align="center" width="90%" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt=""/>
-    </td>
-  </tr>
+<table border="0" align="center">
+  <tr border="0">      
+    <td align="left">
+💻    Java Backend Developer <br>
+      <br>
+⚡️     Software Engineer   <br>
+ <br>     
+        
+📝    <a href="https://bold.pro/my/erdinc-ozdemir">My Resume!</a>  <br> 
+ <br>
+📫    <a href="mailto:erdincozdemir1812@gmail.com">erdincozdemir1812@gmail.com</a><br>
+<br>
+👥    <a href="https://calendly.com/erdincozdemir/40min">Schedule Meeting!</a>  <br>
+   </td>
+  <td style="display: block; margin: 0 auto;
+    padding:0;">
+<img align="right" style="height:200px" width="90%" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="" />
+  </td>
+ </tr>
 </table>
 
 <p align="center">
