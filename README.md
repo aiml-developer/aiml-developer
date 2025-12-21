@@ -14,7 +14,7 @@
         
 📝    <a href="https://erdincozdemirr.github.io/assets/Erdinc_Ozdemir_Java_Back_CV.pdf">My Resume!</a>  <br> 
 <br>
-🌐    href="https://erdincozdemirr.github.io">Visit My Website!</a><br>
+🌐    <a href="https://erdincozdemirr.github.io">Visit My Website!</a><br>
 <br>
 📫    <a href="mailto:erdincozdemir1812@gmail.com">erdincozdemir1812@gmail.com</a><br>
 <br>
