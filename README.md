@@ -40,13 +40,14 @@
 <div align="center">
 <img style="margin: 10px; width: 50px;" src="./assets/icons/html5.svg" alt="HTML5" height="50" />
 <img style="margin: 10px; width: 50px;" src="./assets/icons/css3-original-wordmark.svg" alt="CSS3" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/sass.svg" alt="Sass" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/tailwind.png" alt="Tailwind" height="50" />
 <img style="margin: 10px; width: 50px;" src="./assets/icons/javascript.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px; width: 50px;" src="./assets/icons/typescript-original.svg" alt="TypeScript" height="50" />
 <img style="margin: 10px; width: 50px;" src="./assets/icons/angularjs.svg" alt="Angular" height="50" />
 <img style="margin: 10px; width: 50px;" src="./assets/icons/react-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px; width: 50px;" src="./assets/icons/redux-original.svg" alt="Redux" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/sass.svg" alt="Sass" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/tailwind.png" alt="Tailwind" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/graphql.png" alt="GraphQL" height="50" />
 </div>
 </td>
 <td valign="top" width="50%">
@@ -60,7 +61,6 @@
 <img style="margin: 10px; width: 50px;" src="./assets/icons/microservice.png" alt="MicroService" height="50" />
 <img style="margin: 10px; width: 50px;" src="./assets/icons/springcloud.png" alt="Spring Cloud" height="50" />
 <img style="margin: 10px; width: 50px;" src="./assets/icons/restapi.png" alt="RestAPI" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/graphql.png" alt="GraphQL" height="50" />
 <img style="margin: 10px; width: 50px;" src="./assets/icons/kafka.png" alt="Kafka" height="50" />
 <img style="margin: 10px; width: 50px;" src="./assets/icons/rabbitmq-logo.svg" alt="RabbitMQ" height="50" />
 <img style="margin: 10px; width: 50px;" src="./assets/icons/log4j.png" alt="Log4j" height="50" />
@@ -77,7 +77,6 @@
 <img style="margin: 10px; width: 50px;" src="./assets/icons/sql.png" alt="SQL" height="50" />
 <img style="margin: 10px; width: 50px;" src="./assets/icons/oracle-logo.png" alt="Oracle" height="50" />
 <img style="margin: 10px; width: 50px;" src="./assets/icons/redis.png" alt="Redis" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/elasticsearch.png" alt="Elasticsearch" height="50" />
 <img style="margin: 10px; width: 50px;" src="./assets/icons/minio.png" alt="Minio" height="50" />
 </div>
 </td>
@@ -96,6 +95,7 @@
 <img style="margin: 10px; width: 50px;" src="./assets/icons/graylog.png" alt="Graylog" height="50" />
 <img style="margin: 10px; width: 50px;" src="./assets/icons/junit5.png" alt="JUnit5" height="50" />
 <img style="margin: 10px; width: 50px;" src="./assets/icons/mockito.png" alt="Mockito" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/elasticsearch.png" alt="Elasticsearch" height="50" />
 </div>
 </td>
 </tr>
