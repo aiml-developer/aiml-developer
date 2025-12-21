@@ -12,7 +12,7 @@
 ⚡️     Software Engineer   <br>
  <br>     
         
-📝    <a href="./assets/Erdinc_Ozdemir_Java_Back_CV.pdf">My Resume!</a>  <br> 
+📝    <a href="https://erdincozdemirr.github.io/assets/Erdinc_Ozdemir_Java_Back_CV.pdf">My Resume!</a>  <br> 
  <br>
 📫    <a href="mailto:erdincozdemir1812@gmail.com">erdincozdemir1812@gmail.com</a><br>
 <br>
