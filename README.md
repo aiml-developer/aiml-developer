@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋😃;+I'm+Erdinc+👋😃;"/>
 </h1>
 
-&nbsp;&nbsp;&nbsp;&nbsp;I am a software engineer in **Java development**, with a skill set that includes **Java 8+**, **Spring Boot**, **SQL**, **JPA/Hibernate**, **RESTful APIs** and **Spring Security**. I like to work on **Microservice** architecture. I have an interest in developing **Financial** and **Insurance** application.
+&nbsp;&nbsp;&nbsp;&nbsp;I am a software engineer in **Java development**, with a skill set that includes **Java 8+**, **Spring Boot**, **SQL**, **JPA / Hibernate**, **RESTful APIs** and **Spring Security**. I like to work on **Microservice** architecture. I have an interest in developing **Financial** and **Insurance** application.
 
 <table border="0" align="center">
   <tr border="0">      
