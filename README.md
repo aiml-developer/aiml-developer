@@ -2,27 +2,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋😃;+I'm+Erdinc+👋😃;"/>
 </h1>
 
-I am a software engineer in Java development, with a skill set that includes Java 8+, Spring Boot, SQL, JPA/Hibernate, RESTful APIs and Spring Security. I like to work on Microservice architecture. I have an interest in developing Financial and Insurance application.
+&nbsp;&nbsp;&nbsp;&nbsp;I am a software engineer in **Java development**, with a skill set that includes **Java 8+**, **Spring Boot**, **SQL**, **JPA/Hibernate**, **RESTful APIs** and **Spring Security**. I like to work on **Microservice** architecture. I have an interest in developing **Financial** and **Insurance** application.
 
-<table border="0" align="center">
-  <tr border="0">      
-    <td align="left">
-💻    Java Backend Developer <br>
-      <br>
-⚡️     Software Engineer   <br>
- <br>     
-        
-📝    <a href="https://bold.pro/my/erdinc-ozdemir">My Resume!</a>  <br> 
- <br>
-📫    <a href="mailto:erdincozdemir1812@gmail.com">erdincozdemir1812@gmail.com</a><br>
-<br>
-👥    <a href="https://calendly.com/erdincozdemir/40min">Schedule Meeting!</a>  <br>
-   </td>
-  <td style="display: block; margin: 0 auto;
-    padding:0;">
-<img align="right" style="height:200px;" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="" />
-  </td>
- </tr>
+<table border="0" width="100%">
+  <tr border="0">
+    <td width="60%" align="left" valign="middle">
+      💻    Java Backend Developer <br>
+      ⚡️     Software Engineer   <br>  
+      📝    <a href="./assets/Erdinc_Ozdemir_Java_Back_CV.pdf">My Resume!
+      </a> <br> 
+      📫    <a href="mailto:erdincozdemir1812@gmail.com">erdincozdemir1812@gmail.com</a><br>
+      👥    <a href="https://calendly.com/erdincozdemir/40min">Schedule Meeting!</a>  <br>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="Profile Logic" width="90%" />
+    </td>
+  </tr>
 </table>
 
 <p align="center">
@@ -34,25 +29,32 @@ I am a software engineer in Java development, with a skill set that includes Jav
 <td align="top" width="50%">
 <h3 align="center">FrontEnd</h3>
 <div align="center">
-<img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/html5.svg" alt="HTML5" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/css3-original-wordmark.svg" alt="CSS3" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/javascript.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/typescript-original.svg" alt="TypeScript" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/angularjs.svg" alt="Angular" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/react-original-wordmark.svg" alt="React" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/redux-original.svg" alt="Redux" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/sass.svg" alt="Sass" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/tailwind.png" alt="Tailwind" height="50" />
 </div>
 </td>
 <td valign="top" width="50%">
 <h3 align="center">BackEnd</h3>
 <div align="center">
-<img style="margin: 10px; width: 50px;" src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://i.hizliresim.com/s0ko3z2.png" alt="Hibernate" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-microservice-microservices-soft-fill-soft-fill-juicy-fish.png" alt="MicroService" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://i.hizliresim.com/alpqepq.png" alt="Spring Cloud" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://i.hizliresim.com/rds6yis.png" alt="RestAPI" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://img.icons8.com/color/48/graphql.png" alt="GraphQL" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/java-original.svg" alt="Java" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/spring-boot.svg" alt="Spring Boot" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/spring-security.svg" alt="Spring Security" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/spring-data.svg" alt="Spring Data" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/hibernate.png" alt="Hibernate" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/microservice.png" alt="MicroService" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/springcloud.png" alt="Spring Cloud" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/restapi.png" alt="RestAPI" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/graphql.png" alt="GraphQL" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/kafka.png" alt="Kafka" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/rabbitmq-logo.svg" alt="RabbitMQ" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/log4j.png" alt="Log4j" height="50" />
 </div>
 </td>
 </tr>
@@ -60,21 +62,31 @@ I am a software engineer in Java development, with a skill set that includes Jav
 <td valign="top" width="50%">
 <h3 align="center">DataBase</h3>
 <div align="center">
-<img style="margin: 10px; width: 50px;" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://img.icons8.com/?size=512&id=3767&format=png" alt="SQL" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/mysql.png" alt="MySQL" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/postgreesql.png" alt="PostgreSQL" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/mongodb.svg" alt="MongoDB" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/sql.png" alt="SQL" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/oracle-logo.png" alt="Oracle" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/redis.png" alt="Redis" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/elasticsearch.png" alt="Elasticsearch" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/minio.png" alt="Minio" height="50" />
 </div>
 </td>
 <td valign="top" width="50%">
-<h3 align="center">DevOps</h3>
+<h3 align="center">Test & DevOps</h3>
 <div align="center">
-<img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/docker.png" alt="Docker" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/kubernetes.svg" alt="Kubernetes" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/amazon-web-services.png" alt="AWS" height="50" />
 <img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />
 <img style="margin: 10px; width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/rancher.png" alt="Rancher" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/nexus.png" alt="Nexus" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/kibana.png" alt="Kibana" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/dynatrace.png" alt="Dynatrace" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/graylog.png" alt="Graylog" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/junit5.png" alt="JUnit5" height="50" />
+<img style="margin: 10px; width: 50px;" src="./assets/icons/mockito.png" alt="Mockito" height="50" />
 </div>
 </td>
 </tr>
