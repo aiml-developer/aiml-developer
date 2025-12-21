@@ -14,8 +14,8 @@
       📫    <a href="mailto:erdincozdemir1812@gmail.com">erdincozdemir1812@gmail.com</a><br>
       👥    <a href="https://calendly.com/erdincozdemir/40min">Schedule Meeting!</a>  <br>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt="Profile Logic" width="90%" />
+    <td width="40%" style="display: block; margin: 0 auto;padding:0;">
+    <img align="center" width="90%" src="https://github.com/ErdincOzdemirr/ErdincOzdemirr/assets/127399545/2e47c1e6-b17b-42a9-b856-11f6edcd485d" alt=""/>
     </td>
   </tr>
 </table>
