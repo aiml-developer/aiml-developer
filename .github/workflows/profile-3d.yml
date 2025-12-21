@@ -27,7 +27,7 @@ jobs:
       - uses: ./.tmp_action
 
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PRIVATE_ACTION_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/green-dual.json
       - name: Cleanup Private Action
