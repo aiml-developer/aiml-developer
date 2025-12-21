@@ -15,24 +15,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
-
-    strategy:
-      fail-fast: false
-      max-parallel: 1
-      matrix:
-        setting_json:
-          - .github/ever-green.json
-          - .github/gitblock.json
-          - .github/green-dual.json
-          - .github/multiple.json
-          - .github/parts.json
-          - .github/rainbow.json
-          - .github/season.json
-          - .github/spanish.json
-
     steps:
       - uses: actions/checkout@v4
-
       - name: Checkout Private Action
         uses: actions/checkout@v4
         with:
@@ -40,16 +24,14 @@ jobs:
           token: ${{ secrets.PRIVATE_ACTION_TOKEN }}
           path: ./.tmp_action
           ref: main
-
       - uses: ./.tmp_action
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: ${{ matrix.setting_json }}
-
+          SETTING_JSON: .github/green-dual.json
       - name: Cleanup Private Action
         run: rm -rf ./.tmp_action
-
       - name: Commit & Push
         run: |
           git config user.name github-actions
