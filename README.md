@@ -108,7 +108,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
   
-<h3 align="center"> 📊 Erdinc's Private Contributions</h3>  
+<h3 align="center"> 📊 Erdinc's Code Contributions</h3>  
 
 <img alt="Erdinc's Public and PrivateActivity Graph" src="./profile-3d-contrib/profile-green-dual.svg" />
  
