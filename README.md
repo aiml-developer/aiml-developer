@@ -72,24 +72,26 @@
 <td valign="top" width="50%">
 <h3 align="center">Databases & Cloud</h3>
 <div align="center">
-<img style="margin: 10px; width: 50px;" src="./assets/icons/mysql.png" alt="MySQL" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/sqlite.png" alt="SQLite" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/amazon-web-services.png" alt="AWS" height="50" />
-<img style="margin: 10px; width: 50px;" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/heroku.png" alt="Heroku" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="50"/>
 </div>
+
 </td>
 
 <td valign="top" width="50%">
 <h3 align="center">Tools & DevOps</h3>
 <div align="center">
-<img style="margin: 10px; width: 50px;" src="./assets/icons/git.png" alt="Git" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/github.png" alt="GitHub" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/docker.png" alt="Docker" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/jupyter.png" alt="Jupyter Notebook" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/vscode.png" alt="VS Code" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/postman.png" alt="Postman" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50"/>
 </div>
+
 </td>
 </tr>
 </table>
