@@ -57,13 +57,14 @@
 <td valign="top" width="50%">
 <h3 align="center">Backend & Frameworks</h3>
 <div align="center">
-<img style="margin: 10px; width: 50px;" src="./assets/icons/django.svg" alt="Django" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/flask.svg" alt="Flask" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/streamlit.svg" alt="Streamlit" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/javascript.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/sql.png" alt="SQL" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/bash.svg" alt="Bash" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50"/>
+<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50"/>
 </div>
+
 </td>
 </tr>
 
