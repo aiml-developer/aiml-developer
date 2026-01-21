@@ -101,6 +101,12 @@
 <h3 align="center"> 📊 Parveen's Code Contributions</h3>  
 
 <img alt="Parveen's Public and Private Activity Graph" src="./profile-3d-contrib/profile-night-rainbow.svg />
+## 📊 Parveen's Code Contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+</p>
+
 
 <br>
 
