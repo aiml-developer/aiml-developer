@@ -41,16 +41,17 @@
 <td align="top" width="50%">
 <h3 align="center">AI / ML & Data</h3>
 <div align="center">
-<img style="margin: 10px; width: 50px;" src="./assets/icons/python-original.svg" alt="Python" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/tensorflow.svg" alt="TensorFlow" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/pytorch.svg" alt="PyTorch" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/scikit-learn.svg" alt="Scikit-learn" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/opencv.svg" alt="OpenCV" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/numpy.svg" alt="NumPy" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/pandas.svg" alt="Pandas" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/matplotlib.svg" alt="Matplotlib" height="50" />
-<img style="margin: 10px; width: 50px;" src="./assets/icons/seaborn.svg" alt="Seaborn" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/>
 </div>
+
 </td>
 
 <td valign="top" width="50%">
