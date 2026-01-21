@@ -100,7 +100,7 @@
 
 <h3 align="center"> 📊 Parveen's Code Contributions</h3>  
 
-<img alt="Parveen's Public and Private Activity Graph" src="./profile-3d-contrib/profile-green-dual.svg" />
+<img alt="Parveen's Public and Private Activity Graph" src="./profile-3d-contrib/profile-night-rainbow.svg />
 
 <br>
 
