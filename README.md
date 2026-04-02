@@ -29,7 +29,12 @@
   <a href="https://www.hackerrank.com/profile/inparv" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="30"/>
   </a>
+  &nbsp;
+  <a href="https://calendly.com/parveenkashyap" target="_blank">
+    <img src="https://img.shields.io/badge/Schedule%20a%20Meet-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white" height="30"/>
+  </a>
 </p>
+
 
 ---
 
@@ -64,6 +69,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" height="30"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=darkreader&logoColor=black" height="30"/>
 </div>
 </td>
 <td valign="top" width="50%">
@@ -75,6 +83,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="30"/>
 </div>
 </td>
 </tr>
@@ -87,6 +96,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="50"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logo=databricks&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white" height="30"/>
 </div>
 </td>
 <td valign="top" width="50%">
@@ -98,6 +109,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Claude-CC785C?style=flat&logo=anthropic&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="30"/>
 </div>
 </td>
 </tr>
