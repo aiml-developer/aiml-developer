@@ -13,6 +13,22 @@
   <a href="https://parveenxkashyap.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
   </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/parveenkashyap44" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/ksparveen/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/parveen44" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/inparv" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="30"/>
+  </a>
 </p>
 
 ---
@@ -86,5 +102,11 @@
 </td>
 </tr>
 </table>
-<h6 align=left>Code that is readable. Systems that are impactful. AI that is practical.
-</h6>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parveenxkashyap&style=flat-square&color=blue" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <em>Open to opportunities in AI/ML — let's build something meaningful.</em>
+</p>
