@@ -4,13 +4,14 @@
 <table border="0" align="center">
   <tr>
     <td valign="middle" width="55%">
-      <p>
-        I build production-grade AI systems — from <strong>computer vision pipelines</strong> and
-        <strong>predictive models</strong> to <strong>RAG-based intelligent applications</strong> and
-        <strong>LLM-powered automation</strong>. My work sits at the intersection of deep learning
-        research and real-world deployment, with a focus on building things that actually
-        perform outside the notebook.
-      </p>
+<p>
+  Grounded in the fundamentals of computer science and driven by a genuine curiosity 
+  for what AI can do next. I've spent my time building across the ML landscape — 
+  training models, working with LLMs, deploying intelligent systems, and exploring 
+  everything from <strong>computer vision</strong> to <strong>generative AI</strong>. 
+  Less interested in AI as a buzzword, more interested in 
+  <strong>making it actually work</strong>.
+</p>
       <br>
       <p align="center">
         <a href="https://www.linkedin.com/in/ksparveen/" target="_blank">
