@@ -1,5 +1,3 @@
-<h1 align="center">Parveen Kashyap</h1>
-<p align="center"><strong>AI & ML Engineer &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; MCA (AIML)</strong></p>
 
 ---
 
@@ -7,7 +5,11 @@
   <tr>
     <td valign="middle" width="55%">
       <p>
-        I am an <strong>AI & Machine Learning Engineer</strong> with hands-on experience in <strong>Python</strong>, <strong>Computer Vision</strong>, <strong>Machine Learning</strong>, and <strong>Deep Learning</strong>. My expertise spans <strong>TensorFlow</strong>, <strong>PyTorch</strong>, <strong>Scikit-learn</strong>, <strong>Django</strong>, <strong>Flask</strong>, and <strong>Streamlit</strong> — building real-world AI systems, data-driven applications, and LLM-based intelligent solutions across <strong>Computer Vision</strong>, <strong>NLP</strong>, and <strong>AI-powered automation</strong>.
+        I build production-grade AI systems — from <strong>computer vision pipelines</strong> and
+        <strong>predictive models</strong> to <strong>RAG-based intelligent applications</strong> and
+        <strong>LLM-powered automation</strong>. My work sits at the intersection of deep learning
+        research and real-world deployment, with a focus on building things that actually
+        perform outside the notebook.
       </p>
       <br>
       <p align="center">
@@ -38,6 +40,7 @@
           <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28"/>
         </a>
       </p>
+    </td>
     </td>
     <td valign="middle" width="45%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
