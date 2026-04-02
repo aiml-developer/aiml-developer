@@ -86,5 +86,5 @@
 </td>
 </tr>
 </table>
-
-Code that is readable. Systems that are impactful. AI that is practical.
+<h6 align=left>Code that is readable. Systems that are impactful. AI that is practical.
+</h6>
