@@ -1,41 +1,6 @@
 <h1 align="center">Parveen Kashyap</h1>
 <p align="center"><strong>AI & ML Engineer &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; MCA (AIML)</strong></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ksparveen/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30"/>
-  </a>
-  &nbsp;
-  <a href="mailto:er.parveen44@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://parveenxkashyap.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/parveenkashyap44" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/ksparveen/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/parveen44" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/inparv" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://calendly.com/parveenkashyap" target="_blank">
-    <img src="https://img.shields.io/badge/Schedule%20a%20Meet-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white" height="30"/>
-  </a>
-</p>
-
-
 ---
 
 <table border="0" align="center">
@@ -43,6 +8,35 @@
     <td valign="middle" width="55%">
       <p>
         I am an <strong>AI & Machine Learning Engineer</strong> with hands-on experience in <strong>Python</strong>, <strong>Computer Vision</strong>, <strong>Machine Learning</strong>, and <strong>Deep Learning</strong>. My expertise spans <strong>TensorFlow</strong>, <strong>PyTorch</strong>, <strong>Scikit-learn</strong>, <strong>Django</strong>, <strong>Flask</strong>, and <strong>Streamlit</strong> — building real-world AI systems, data-driven applications, and LLM-based intelligent solutions across <strong>Computer Vision</strong>, <strong>NLP</strong>, and <strong>AI-powered automation</strong>.
+      </p>
+      <br>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/ksparveen/" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
+        </a>&nbsp;
+        <a href="mailto:er.parveen44@gmail.com">
+          <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
+        </a>&nbsp;
+        <a href="https://parveenxkashyap.github.io/" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" height="28"/>
+        </a>&nbsp;
+        <a href="https://calendly.com/parveenkashyap" target="_blank">
+          <img src="https://img.shields.io/badge/Schedule%20a%20Meet-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white" height="28"/>
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://www.kaggle.com/parveenkashyap44" target="_blank">
+          <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="28"/>
+        </a>&nbsp;
+        <a href="https://leetcode.com/u/ksparveen/" target="_blank">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28"/>
+        </a>&nbsp;
+        <a href="https://www.codechef.com/users/parveen44" target="_blank">
+          <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="28"/>
+        </a>&nbsp;
+        <a href="https://www.hackerrank.com/profile/inparv" target="_blank">
+          <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="28"/>
+        </a>
       </p>
     </td>
     <td valign="middle" width="45%" align="center">
@@ -53,7 +47,7 @@
 
 ---
 
-<h2 align="center">Skill Set</h2>
+<h2 align="center">⚙ Tech Stack & Toolbox</h2>
 
 <table align="center">
 <tr>
@@ -128,8 +122,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parveenxkashyap&style=flat-square&color=blue" alt="Profile Views"/>
-  &nbsp;&nbsp;
-  <em>Open to opportunities in AI/ML — let's build something meaningful.</em>
-</p>
+<p align="center"><em>Open to opportunities in AI/ML — let's build something meaningful.</em></p>
